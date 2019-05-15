@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Vishnu R"
 title_separator          : "-"
 name                     : "Vishnu R"
 description              : "My Portfolio"
@@ -106,7 +106,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "VIshnu R"
+  name             : "Vishnu R"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Upcoming machine learning engineer"
   location         : "Trivandrum, India"
@@ -120,13 +120,13 @@ author:
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/vishnur3006"
+      url: "https://twitter.com/vishnur3006"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/vishnurapps"
+      url: "https://github.com/vishnurapps"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
